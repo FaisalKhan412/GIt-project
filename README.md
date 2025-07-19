@@ -28,3 +28,8 @@ You can clone this repo and explore the Git history to see how the resume evolve
 ```bash
 git clone git@github.com:<your-username>/devops-resume-versioning.git
 
+
+
+## 📄 Latest Resume (PDF)
+[Download FaisalKhan_Resume_v1.2.pdf](FaisalKhan_Resume_v1.2.pdf)
+
